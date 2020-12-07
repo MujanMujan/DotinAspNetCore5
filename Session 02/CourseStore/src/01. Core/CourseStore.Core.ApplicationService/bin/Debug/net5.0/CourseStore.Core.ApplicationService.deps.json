@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CourseStore.Core.ApplicationService/1.0.0": {
+        "dependencies": {
+          "CourseStore.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CourseStore.Core.ApplicationService.dll": {}
+        }
+      },
+      "CourseStore.Core.Domain/1.0.0": {
+        "runtime": {
+          "CourseStore.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CourseStore.Core.ApplicationService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseStore.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

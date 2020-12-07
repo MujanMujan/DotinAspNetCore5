@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj": {}
+    "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 01\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj": {
+    "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 01\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj",
+        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 01\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj",
         "projectName": "Dotin.Session01.HelloEF",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj",
+        "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 01\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\Dotin.Session01\\Dotin.Session01.HelloEF\\obj\\",
+        "outputPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 01\\Dotin.Session01\\Dotin.Session01.HelloEF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\bin\Debug\net5.0\CourseStore.Core.Domain.dll
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\bin\Debug\net5.0\CourseStore.Infra.Dal.deps.json
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\bin\Debug\net5.0\CourseStore.Infra.Dal.dll
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\bin\Debug\net5.0\ref\CourseStore.Infra.Dal.dll
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\bin\Debug\net5.0\CourseStore.Infra.Dal.pdb
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\bin\Debug\net5.0\CourseStore.Core.Domain.pdb
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.csproj.CopyComplete
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.dll
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\ref\CourseStore.Infra.Dal.dll
+C:\Users\Alireza\source\repos\DotinAspNetCore5\Session 02\CourseStore\src\02. Infra\CourseStore.Infra.Dal\obj\Debug\net5.0\CourseStore.Infra.Dal.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1/g6ThvXnL/FAfwM42kJfPrrjxD+7mGa4oBpTID64C3Ty28BqFvqc9K99bHntB1AAOmFvhCgyzKfpLarplXgrA==",
+  "dgSpecHash": "Shc/zQnCtgWrFaJJeR5NOmWgyo29wNP+1NyHBSssvoHN09tIOg5NBB/NmdFJPxQbLhLcAN6iqBtnbNS6H2x7lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj",
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 01\\Dotin.Session01\\Dotin.Session01.HelloEF\\Dotin.Session01.HelloEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
