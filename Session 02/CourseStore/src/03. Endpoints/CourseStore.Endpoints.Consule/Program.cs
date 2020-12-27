@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CourseStore.Infra.Dal;
+using System;
 
 namespace CourseStore.Endpoints.Consule
 {
@@ -6,7 +7,14 @@ namespace CourseStore.Endpoints.Consule
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //DataClass.SeedData();
+            Console.WriteLine("[+] Eager Loading:\n");
+            DataClass.LoadEager01();
+            Console.WriteLine("[+] Explicit Loading:\n");
+            DataClass.LoadExplicti01();
+            Console.WriteLine("[+] Select Loading:\n");
+            DataClass.LoadSelection();
+            Console.WriteLine("Finished!");
         }
     }
 }

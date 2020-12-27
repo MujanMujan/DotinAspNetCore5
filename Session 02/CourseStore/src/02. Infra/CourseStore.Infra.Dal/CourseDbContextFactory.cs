@@ -8,7 +8,8 @@ namespace CourseStore.Infra.Dal
         {
             DbContextOptionsBuilder<CourseDbContext> optionsBuilder = new DbContextOptionsBuilder<CourseDbContext>();
             optionsBuilder.UseSqlServer($"Server=.\\Sql2019; Database=CourseDb;Integrated Security=true ");
-               // .UseLazyLoadingProxies();
+            // .UseLazyLoadingProxies();
+            optionsBuilder.AddInterceptors(new CountDatabaseAccessInterceptor());
             return new CourseDbContext(optionsBuilder.Options);
         }
     }

@@ -8,19 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Alireza\\.nuget\\packages\\": {}
+    "C:\\Users\\Mujan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
       "projectName": "CourseStore.Core.Domain",
-      "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
-      "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\obj\\",
+      "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
+      "packagesPath": "C:\\Users\\Mujan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mujan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +32,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://baget.navoshgaran.com/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

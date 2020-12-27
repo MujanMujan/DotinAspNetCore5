@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj": {}
+    "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj": {
+    "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj",
+        "projectUniqueName": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj",
         "projectName": "CourseStore.Core.ApplicationService",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\obj\\",
+        "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj",
+        "packagesPath": "C:\\Users\\Mujan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mujan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +25,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://baget.navoshgaran.com/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj"
+              "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj"
               }
             }
           }
@@ -59,21 +61,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
+    "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
         "projectName": "CourseStore.Core.Domain",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mujan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mujan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +86,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://baget.navoshgaran.com/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,21 +118,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj": {
+    "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj",
+        "projectUniqueName": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj",
         "projectName": "CourseStore.Infra.Dal",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\obj\\",
+        "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj",
+        "packagesPath": "C:\\Users\\Mujan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mujan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,15 +143,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://baget.navoshgaran.com/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj"
+              "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj"
               }
             }
           }
@@ -159,10 +165,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Proxies": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.0, )"
@@ -183,21 +185,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj": {
+    "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj",
+        "projectUniqueName": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj",
         "projectName": "CourseStore.Endpoints.Consule",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\obj\\",
+        "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\CourseStore.Endpoints.Consule.csproj",
+        "packagesPath": "C:\\Users\\Mujan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\03. Endpoints\\CourseStore.Endpoints.Consule\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mujan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -205,21 +210,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://baget.navoshgaran.com/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj"
+              "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj": {
+                "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj"
               },
-              "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj"
+              "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\01. Core\\CourseStore.Core.Domain\\CourseStore.Core.Domain.csproj"
               },
-              "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj"
+              "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj": {
+                "projectPath": "C:\\Users\\Mujan\\Desktop\\aro\\DotinAspNetCore5\\Session 02\\CourseStore\\src\\02. Infra\\CourseStore.Infra.Dal\\CourseStore.Infra.Dal.csproj"
               }
             }
           }
@@ -256,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
